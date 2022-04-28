@@ -1,0 +1,6 @@
+framework module Pods_AggroAppV3 {
+  umbrella header "Pods-AggroAppV3-umbrella.h"
+
+  export *
+  module * { export * }
+}
